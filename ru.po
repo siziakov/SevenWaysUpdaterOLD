@@ -1,0 +1,896 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: \n"
+"POT-Creation-Date: 2020-05-30 23:50+0300\n"
+"PO-Revision-Date: 2020-05-30 23:50+0300\n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"Language: ru\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 2.3.1\n"
+"X-Poedit-Basepath: .\n"
+"Plural-Forms: nplurals=3; plural=(n%10==1 && n%100!=11 ? 0 : n%10>=2 && n"
+"%10<=4 && (n%100<12 || n%100>14) ? 1 : 2);\n"
+"X-Poedit-KeywordsList: _;wxT\n"
+"X-Poedit-SearchPath-0: SevenWaysUpdaterApp.cpp\n"
+"X-Poedit-SearchPath-1: SevenWaysUpdaterMain.cpp\n"
+"X-Poedit-SearchPath-2: MapDescriptor.cpp\n"
+"X-Poedit-SearchPath-3: MapGroup.cpp\n"
+"X-Poedit-SearchPath-4: Maps.cpp\n"
+
+#: Maps.cpp:94
+msgid "RUSSIA"
+msgstr "Россия"
+
+#: Maps.cpp:95 Maps.cpp:101 Maps.cpp:102 Maps.cpp:103 Maps.cpp:104 Maps.cpp:105
+#: Maps.cpp:106 Maps.cpp:107 Maps.cpp:108 Maps.cpp:109 Maps.cpp:110
+#: Maps.cpp:111 Maps.cpp:112 Maps.cpp:113 Maps.cpp:114 Maps.cpp:115
+#: Maps.cpp:116 Maps.cpp:117 Maps.cpp:118 Maps.cpp:141 Maps.cpp:142
+#: Maps.cpp:143 Maps.cpp:144 Maps.cpp:145 Maps.cpp:146 Maps.cpp:147
+#: Maps.cpp:148 Maps.cpp:149 Maps.cpp:150 Maps.cpp:151 Maps.cpp:167
+#: Maps.cpp:168 Maps.cpp:169 Maps.cpp:170 Maps.cpp:171 Maps.cpp:172
+#: Maps.cpp:173 Maps.cpp:174 Maps.cpp:187 Maps.cpp:188 Maps.cpp:189
+#: Maps.cpp:190 Maps.cpp:191 Maps.cpp:192 Maps.cpp:193 Maps.cpp:205
+#: Maps.cpp:206 Maps.cpp:207 Maps.cpp:208 Maps.cpp:209 Maps.cpp:210
+#: Maps.cpp:211 Maps.cpp:212 Maps.cpp:213 Maps.cpp:214 Maps.cpp:215
+#: Maps.cpp:216 Maps.cpp:217 Maps.cpp:218 Maps.cpp:237 Maps.cpp:238
+#: Maps.cpp:239 Maps.cpp:240 Maps.cpp:241 Maps.cpp:242 Maps.cpp:253
+#: Maps.cpp:254 Maps.cpp:255 Maps.cpp:256 Maps.cpp:257 Maps.cpp:258
+#: Maps.cpp:259 Maps.cpp:260 Maps.cpp:261 Maps.cpp:262 Maps.cpp:277
+#: Maps.cpp:278 Maps.cpp:279 Maps.cpp:280 Maps.cpp:281 Maps.cpp:282
+#: Maps.cpp:283 Maps.cpp:284 Maps.cpp:285 Maps.cpp:286 Maps.cpp:287
+msgid "megamaps.org"
+msgstr ""
+
+#: Maps.cpp:95
+msgid "/store/navikey/russia/russia_adm.zip"
+msgstr ""
+
+#: Maps.cpp:95
+msgid "ADM"
+msgstr "Обзорная карта"
+
+#: Maps.cpp:100
+msgid "CFO"
+msgstr "ЦФО"
+
+#: Maps.cpp:101
+msgid "/store/navikey/russia/RU-BEL.zip"
+msgstr ""
+
+#: Maps.cpp:101
+msgid "BEL"
+msgstr "Белгородская область"
+
+#: Maps.cpp:102
+msgid "/store/navikey/russia/RU-BRY.zip"
+msgstr ""
+
+#: Maps.cpp:102
+msgid "BRY"
+msgstr "Брянская область"
+
+#: Maps.cpp:103
+msgid "/store/navikey/russia/RU-VLA.zip"
+msgstr ""
+
+#: Maps.cpp:103
+msgid "VLA"
+msgstr "Владимирская область"
+
+#: Maps.cpp:104
+msgid "/store/navikey/russia/RU-VOR.zip"
+msgstr ""
+
+#: Maps.cpp:104
+msgid "VOR"
+msgstr "Воронежская область"
+
+#: Maps.cpp:105
+msgid "/store/navikey/russia/RU-IVA.zip"
+msgstr ""
+
+#: Maps.cpp:105
+msgid "IVA"
+msgstr "Ивановская область"
+
+#: Maps.cpp:106
+msgid "/store/navikey/russia/RU-KLU.zip"
+msgstr ""
+
+#: Maps.cpp:106
+msgid "KLU"
+msgstr "Калужская область"
+
+#: Maps.cpp:107
+msgid "/store/navikey/russia/RU-KOS.zip"
+msgstr ""
+
+#: Maps.cpp:107
+msgid "KOS"
+msgstr "Костромская область"
+
+#: Maps.cpp:108
+msgid "/store/navikey/russia/RU-KRS.zip"
+msgstr ""
+
+#: Maps.cpp:108
+msgid "KRS"
+msgstr "Курская область"
+
+#: Maps.cpp:109
+msgid "/store/navikey/russia/RU-LIP.zip"
+msgstr ""
+
+#: Maps.cpp:109
+msgid "LIP"
+msgstr "Липецкая область"
+
+#: Maps.cpp:110
+msgid "/store/navikey/russia/RU-MOW.zip"
+msgstr ""
+
+#: Maps.cpp:110
+msgid "MOW"
+msgstr "Москва"
+
+#: Maps.cpp:111
+msgid "/store/navikey/russia/RU-MOS.zip"
+msgstr ""
+
+#: Maps.cpp:111
+msgid "MOS"
+msgstr "Московская область"
+
+#: Maps.cpp:112
+msgid "/store/navikey/russia/RU-ORL.zip"
+msgstr ""
+
+#: Maps.cpp:112
+msgid "ORL"
+msgstr "Орловская область"
+
+#: Maps.cpp:113
+msgid "/store/navikey/russia/RU-RYA.zip"
+msgstr ""
+
+#: Maps.cpp:113
+msgid "RYA"
+msgstr "Рязанская область"
+
+#: Maps.cpp:114
+msgid "/store/navikey/russia/RU-SMO.zip"
+msgstr ""
+
+#: Maps.cpp:114
+msgid "SMO"
+msgstr "Смоленская область"
+
+#: Maps.cpp:115
+msgid "/store/navikey/russia/RU-TAM.zip"
+msgstr ""
+
+#: Maps.cpp:115
+msgid "TAM"
+msgstr "Тамбовская область"
+
+#: Maps.cpp:116
+msgid "/store/navikey/russia/RU-TVE.zip"
+msgstr ""
+
+#: Maps.cpp:116
+msgid "TVE"
+msgstr "Тверская область"
+
+#: Maps.cpp:117
+msgid "/store/navikey/russia/RU-TUL.zip"
+msgstr ""
+
+#: Maps.cpp:117
+msgid "TUL"
+msgstr "Тульская область"
+
+#: Maps.cpp:118
+msgid "/store/navikey/russia/RU-YAR.zip"
+msgstr ""
+
+#: Maps.cpp:118
+msgid "YAR"
+msgstr "Ярославская область"
+
+#: Maps.cpp:140
+msgid "SZFO"
+msgstr "СЗФО"
+
+#: Maps.cpp:141
+msgid "/store/navikey/russia/RU-KR.zip"
+msgstr ""
+
+#: Maps.cpp:141
+msgid "KR"
+msgstr "Республика Карелия"
+
+#: Maps.cpp:142
+msgid "/store/navikey/russia/RU-KO.zip"
+msgstr ""
+
+#: Maps.cpp:142
+msgid "KO"
+msgstr "Республика Коми"
+
+#: Maps.cpp:143
+msgid "/store/navikey/russia/RU-ARK.zip"
+msgstr ""
+
+#: Maps.cpp:143
+msgid "ARK"
+msgstr "Архангельская область"
+
+#: Maps.cpp:144
+msgid "/store/navikey/russia/RU-VLG.zip"
+msgstr ""
+
+#: Maps.cpp:144
+msgid "VLG"
+msgstr "Вологодская область"
+
+#: Maps.cpp:145
+msgid "/store/navikey/russia/RU-KGD.zip"
+msgstr ""
+
+#: Maps.cpp:145
+msgid "KGD"
+msgstr "Калининградская область"
+
+#: Maps.cpp:146
+msgid "/store/navikey/russia/RU-LEN.zip"
+msgstr ""
+
+#: Maps.cpp:146
+msgid "LEN"
+msgstr "Ленинградская область"
+
+#: Maps.cpp:147
+msgid "/store/navikey/russia/RU-MUR.zip"
+msgstr ""
+
+#: Maps.cpp:147
+msgid "MUR"
+msgstr "Мурманская область"
+
+#: Maps.cpp:148
+msgid "/store/navikey/russia/RU-NGR.zip"
+msgstr ""
+
+#: Maps.cpp:148
+msgid "NGR"
+msgstr "Новгородская область"
+
+#: Maps.cpp:149
+msgid "/store/navikey/russia/RU-PSK.zip"
+msgstr ""
+
+#: Maps.cpp:149
+msgid "PSK"
+msgstr "Псковская область"
+
+#: Maps.cpp:150
+msgid "/store/navikey/russia/RU-SPE.zip"
+msgstr ""
+
+#: Maps.cpp:150
+msgid "SPE"
+msgstr "Санкт-Петербург"
+
+#: Maps.cpp:151
+msgid "/store/navikey/russia/RU-NEN.zip"
+msgstr ""
+
+#: Maps.cpp:151
+msgid "NEN"
+msgstr "Ненецкий автономный округ"
+
+#: Maps.cpp:166
+msgid "UFO"
+msgstr "ЮФО"
+
+#: Maps.cpp:167
+msgid "/store/navikey/russia/RU-AD.zip"
+msgstr ""
+
+#: Maps.cpp:167
+msgid "AD"
+msgstr "Республика Адыгея"
+
+#: Maps.cpp:168
+msgid "/store/navikey/russia/RU-KL.zip"
+msgstr ""
+
+#: Maps.cpp:168
+msgid "KL"
+msgstr "Республика Калмыкия"
+
+#: Maps.cpp:169
+msgid "/store/navikey/russia/RU-KRM.zip"
+msgstr ""
+
+#: Maps.cpp:169
+msgid "KRM"
+msgstr "Республика Крым"
+
+#: Maps.cpp:170
+msgid "/store/navikey/russia/RU-KDA.zip"
+msgstr ""
+
+#: Maps.cpp:170
+msgid "KDA"
+msgstr "Краснодарский край"
+
+#: Maps.cpp:171
+msgid "/store/navikey/russia/RU-AST.zip"
+msgstr ""
+
+#: Maps.cpp:171
+msgid "AST"
+msgstr "Астраханская область"
+
+#: Maps.cpp:172
+msgid "/store/navikey/russia/RU-VGG.zip"
+msgstr ""
+
+#: Maps.cpp:172
+msgid "VGG"
+msgstr "Волгоградская область"
+
+#: Maps.cpp:173
+msgid "/store/navikey/russia/RU-ROS.zip"
+msgstr ""
+
+#: Maps.cpp:173
+msgid "ROS"
+msgstr "Ростовская область"
+
+#: Maps.cpp:174
+msgid "/store/navikey/russia/RU-SEV.zip"
+msgstr ""
+
+#: Maps.cpp:174
+msgid "SEV"
+msgstr "Севастополь"
+
+#: Maps.cpp:186
+msgid "SKFO"
+msgstr "СКФО"
+
+#: Maps.cpp:187
+msgid "/store/navikey/russia/RU-DA.zip"
+msgstr ""
+
+#: Maps.cpp:187
+msgid "DA"
+msgstr "Республика Дагестан"
+
+#: Maps.cpp:188
+msgid "/store/navikey/russia/RU-IN.zip"
+msgstr ""
+
+#: Maps.cpp:188
+msgid "IN"
+msgstr "Республика Ингушетия"
+
+#: Maps.cpp:189
+msgid "/store/navikey/russia/RU-KB.zip"
+msgstr ""
+
+#: Maps.cpp:189
+msgid "KB"
+msgstr "Кабардино-Балкарская Республика"
+
+#: Maps.cpp:190
+msgid "/store/navikey/russia/RU-KC.zip"
+msgstr ""
+
+#: Maps.cpp:190
+msgid "KC"
+msgstr "Карачаево-Черкесская Республика"
+
+#: Maps.cpp:191
+msgid "/store/navikey/russia/RU-SE.zip"
+msgstr ""
+
+#: Maps.cpp:191
+msgid "SE"
+msgstr "Республика Северная Осетия"
+
+#: Maps.cpp:192
+msgid "/store/navikey/russia/RU-CE.zip"
+msgstr ""
+
+#: Maps.cpp:192
+msgid "CE"
+msgstr "Чеченская Республика"
+
+#: Maps.cpp:193
+msgid "/store/navikey/russia/RU-STA.zip"
+msgstr ""
+
+#: Maps.cpp:193
+msgid "STA"
+msgstr "Ставропольский край"
+
+#: Maps.cpp:204
+msgid "PFO"
+msgstr "ПФО"
+
+#: Maps.cpp:205
+msgid "/store/navikey/russia/RU-BA.zip"
+msgstr ""
+
+#: Maps.cpp:205
+msgid "BA"
+msgstr "Республика Башкортостан"
+
+#: Maps.cpp:206
+msgid "/store/navikey/russia/RU-ME.zip"
+msgstr ""
+
+#: Maps.cpp:206
+msgid "ME"
+msgstr "Республика Марий Эл"
+
+#: Maps.cpp:207
+msgid "/store/navikey/russia/RU-MO.zip"
+msgstr ""
+
+#: Maps.cpp:207
+msgid "MO"
+msgstr "Республика Мордовия"
+
+#: Maps.cpp:208
+msgid "/store/navikey/russia/RU-TA.zip"
+msgstr ""
+
+#: Maps.cpp:208
+msgid "TA"
+msgstr "Республика Татарстан"
+
+#: Maps.cpp:209
+msgid "/store/navikey/russia/RU-UD.zip"
+msgstr ""
+
+#: Maps.cpp:209
+msgid "UD"
+msgstr "Удмуртская Республика"
+
+#: Maps.cpp:210
+msgid "/store/navikey/russia/RU-CU.zip"
+msgstr ""
+
+#: Maps.cpp:210
+msgid "CU"
+msgstr "Чувашская Республика"
+
+#: Maps.cpp:211
+msgid "/store/navikey/russia/RU-PER.zip"
+msgstr ""
+
+#: Maps.cpp:211
+msgid "PER"
+msgstr "Пермский край"
+
+#: Maps.cpp:212
+msgid "/store/navikey/russia/RU-KIR.zip"
+msgstr ""
+
+#: Maps.cpp:212
+msgid "KIR"
+msgstr "Кировская область"
+
+#: Maps.cpp:213
+msgid "/store/navikey/russia/RU-NIZ.zip"
+msgstr ""
+
+#: Maps.cpp:213
+msgid "NIZ"
+msgstr "Нижегородская область"
+
+#: Maps.cpp:214
+msgid "/store/navikey/russia/RU-ORE.zip"
+msgstr ""
+
+#: Maps.cpp:214
+msgid "ORE"
+msgstr "Оренбургская область"
+
+#: Maps.cpp:215
+msgid "/store/navikey/russia/RU-PNZ.zip"
+msgstr ""
+
+#: Maps.cpp:215
+msgid "PNZ"
+msgstr "Пензенская область"
+
+#: Maps.cpp:216
+msgid "/store/navikey/russia/RU-SAM.zip"
+msgstr ""
+
+#: Maps.cpp:216
+msgid "SAM"
+msgstr "Самарская область"
+
+#: Maps.cpp:217
+msgid "/store/navikey/russia/RU-SAR.zip"
+msgstr ""
+
+#: Maps.cpp:217
+msgid "SAR"
+msgstr "Саратовская область"
+
+#: Maps.cpp:218
+msgid "/store/navikey/russia/RU-ULY.zip"
+msgstr ""
+
+#: Maps.cpp:218
+msgid "ULY"
+msgstr "Ульяновская область"
+
+#: Maps.cpp:236
+msgid "URFO"
+msgstr "УФО"
+
+#: Maps.cpp:237
+msgid "/store/navikey/russia/RU-KGN.zip"
+msgstr ""
+
+#: Maps.cpp:237
+msgid "KGN"
+msgstr "Курганская область"
+
+#: Maps.cpp:238
+msgid "/store/navikey/russia/RU-SVE.zip"
+msgstr ""
+
+#: Maps.cpp:238
+msgid "SVE"
+msgstr "Свердловская область"
+
+#: Maps.cpp:239
+msgid "/store/navikey/russia/RU-TYU.zip"
+msgstr ""
+
+#: Maps.cpp:239
+msgid "TYU"
+msgstr "Тюменская область"
+
+#: Maps.cpp:240
+msgid "/store/navikey/russia/RU-CHE.zip"
+msgstr ""
+
+#: Maps.cpp:240
+msgid "CHE"
+msgstr "Челябинская область"
+
+#: Maps.cpp:241
+msgid "/store/navikey/russia/RU-KHM.zip"
+msgstr ""
+
+#: Maps.cpp:241
+msgid "KHM"
+msgstr "Ханты-Мансийский автономный округ"
+
+#: Maps.cpp:242
+msgid "/store/navikey/russia/RU-YAN.zip"
+msgstr ""
+
+#: Maps.cpp:242
+msgid "YAN"
+msgstr "Ямало-Ненецкий автономный округ"
+
+#: Maps.cpp:252
+msgid "SFO"
+msgstr "СФО"
+
+#: Maps.cpp:253
+msgid "/store/navikey/russia/RU-AL.zip"
+msgstr ""
+
+#: Maps.cpp:253
+msgid "AL"
+msgstr "Республика Алтай"
+
+#: Maps.cpp:254
+msgid "/store/navikey/russia/RU-TY.zip"
+msgstr ""
+
+#: Maps.cpp:254
+msgid "TY"
+msgstr "Республика Тыва"
+
+#: Maps.cpp:255
+msgid "/store/navikey/russia/RU-KK.zip"
+msgstr ""
+
+#: Maps.cpp:255
+msgid "KK"
+msgstr "Республика Хакасия"
+
+#: Maps.cpp:256
+msgid "/store/navikey/russia/RU-ALT.zip"
+msgstr ""
+
+#: Maps.cpp:256
+msgid "ALT"
+msgstr "Алтайский край"
+
+#: Maps.cpp:257
+msgid "/store/navikey/russia/RU-KYA.zip"
+msgstr ""
+
+#: Maps.cpp:257
+msgid "KYA"
+msgstr "Красноярский край"
+
+#: Maps.cpp:258
+msgid "/store/navikey/russia/RU-IRK.zip"
+msgstr ""
+
+#: Maps.cpp:258
+msgid "IRK"
+msgstr "Иркутская область"
+
+#: Maps.cpp:259
+msgid "/store/navikey/russia/RU-KEM.zip"
+msgstr ""
+
+#: Maps.cpp:259
+msgid "KEM"
+msgstr "Кемеровская область"
+
+#: Maps.cpp:260
+msgid "/store/navikey/russia/RU-NVS.zip"
+msgstr ""
+
+#: Maps.cpp:260
+msgid "NVS"
+msgstr "Новосибирская область"
+
+#: Maps.cpp:261
+msgid "/store/navikey/russia/RU-OMS.zip"
+msgstr ""
+
+#: Maps.cpp:261
+msgid "OMS"
+msgstr "Омская область"
+
+#: Maps.cpp:262
+msgid "/store/navikey/russia/RU-TOM.zip"
+msgstr ""
+
+#: Maps.cpp:262
+msgid "TOM"
+msgstr "Томская область"
+
+#: Maps.cpp:276
+msgid "DFO"
+msgstr "ДФО"
+
+#: Maps.cpp:277
+msgid "/store/navikey/russia/RU-BU.zip"
+msgstr ""
+
+#: Maps.cpp:277
+msgid "BU"
+msgstr "Республика Бурятия"
+
+#: Maps.cpp:278
+msgid "/store/navikey/russia/RU-SA.zip"
+msgstr ""
+
+#: Maps.cpp:278
+msgid "SA"
+msgstr "Республика Саха (Якутия)"
+
+#: Maps.cpp:279
+msgid "/store/navikey/russia/RU-ZAB.zip"
+msgstr ""
+
+#: Maps.cpp:279
+msgid "ZAB"
+msgstr "Забайкальский край"
+
+#: Maps.cpp:280
+msgid "/store/navikey/russia/RU-KAM.zip"
+msgstr ""
+
+#: Maps.cpp:280
+msgid "KAM"
+msgstr "Камчатский край"
+
+#: Maps.cpp:281
+msgid "/store/navikey/russia/RU-PRI.zip"
+msgstr ""
+
+#: Maps.cpp:281
+msgid "PRI"
+msgstr "Приморский край"
+
+#: Maps.cpp:282
+msgid "/store/navikey/russia/RU-KHA.zip"
+msgstr ""
+
+#: Maps.cpp:282
+msgid "KHA"
+msgstr "Хабаровский край"
+
+#: Maps.cpp:283
+msgid "/store/navikey/russia/RU-AMU.zip"
+msgstr ""
+
+#: Maps.cpp:283
+msgid "AMU"
+msgstr "Амурская область"
+
+#: Maps.cpp:284
+msgid "/store/navikey/russia/RU-MAG.zip"
+msgstr ""
+
+#: Maps.cpp:284
+msgid "MAG"
+msgstr "Магаданская область"
+
+#: Maps.cpp:285
+msgid "/store/navikey/russia/RU-SAK.zip"
+msgstr ""
+
+#: Maps.cpp:285
+msgid "SAK"
+msgstr "Сахалинская область"
+
+#: Maps.cpp:286
+msgid "/store/navikey/russia/RU-YEV.zip"
+msgstr ""
+
+#: Maps.cpp:286
+msgid "YEV"
+msgstr "Еврейская автономная область"
+
+#: Maps.cpp:287
+msgid "/store/navikey/russia/RU-CHU.zip"
+msgstr ""
+
+#: Maps.cpp:287
+msgid "CHU"
+msgstr "Чукотский автономный округ"
+
+#: SevenWaysUpdaterApp.cpp:40
+msgid "."
+msgstr ""
+
+#: SevenWaysUpdaterApp.cpp:44
+msgid "/usr"
+msgstr ""
+
+#: SevenWaysUpdaterApp.cpp:45
+msgid "/usr/local"
+msgstr ""
+
+#: SevenWaysUpdaterApp.cpp:52
+msgid "SevenWaysUpdater"
+msgstr ""
+
+#: SevenWaysUpdaterApp.cpp:54
+msgid "Translation is missing!"
+msgstr "Перевод недоступен!"
+
+#: SevenWaysUpdaterApp.cpp:59
+msgid "selected language is wrong"
+msgstr "выбранный язык неправильный"
+
+#: SevenWaysUpdaterApp.cpp:67
+msgid ""
+"The selected language is not supported by your system. Try installing "
+"support for this language."
+msgstr ""
+
+#: SevenWaysUpdaterApp.cpp:78
+msgid "7Ways maps updater"
+msgstr "7Ways обновление карт"
+
+#: SevenWaysUpdaterMain.cpp:73
+msgid "Open"
+msgstr "Открыть"
+
+#: SevenWaysUpdaterMain.cpp:76
+msgid "Fast update"
+msgstr "Быстрое обновление"
+
+#: SevenWaysUpdaterMain.cpp:80
+msgid "All maps"
+msgstr "Все карты"
+
+#: SevenWaysUpdaterMain.cpp:84
+msgid "Update"
+msgstr "Обновить"
+
+#: SevenWaysUpdaterMain.cpp:94
+msgid "Press Open button to select 7Ways files"
+msgstr "Нажмите кнопку Открыть, чтобы указать путь к программе 7Ways"
+
+#: SevenWaysUpdaterMain.cpp:104
+msgid "© RS-Soft: "
+msgstr ""
+
+#: SevenWaysUpdaterMain.cpp:129
+msgid "Welcome to..."
+msgstr ""
+
+#: SevenWaysUpdaterMain.cpp:136
+msgid "Open 7 Ways executable file"
+msgstr "Открыть файл 7Ways"
+
+#: SevenWaysUpdaterMain.cpp:141
+msgid "maps"
+msgstr "карт"
+
+#: SevenWaysUpdaterMain.cpp:144
+msgid "*.7w"
+msgstr ""
+
+#: SevenWaysUpdaterMain.cpp:175
+msgid "Maps"
+msgstr "Карты"
+
+#: SevenWaysUpdaterMain.cpp:177
+msgid "Size"
+msgstr "Размер"
+
+#: SevenWaysUpdaterMain.cpp:178
+msgid "ID"
+msgstr ""
+
+#: SevenWaysUpdaterMain.cpp:201
+#, c-format
+msgid "Checking map: %s"
+msgstr "Проверка карт: %s"
+
+#: SevenWaysUpdaterMain.cpp:205
+msgid "Updated information on available maps completed!"
+msgstr "Обновление информации о доступных картах завершено!"
+
+#: SevenWaysUpdaterMain.cpp:231
+msgid "Update is completed!"
+msgstr "Обновление завершено!"
+
+#: SevenWaysUpdaterMain.cpp:309
+msgid "Update completed!"
+msgstr "Обновление завершено!"
+
+#: SevenWaysUpdaterMain.cpp:336
+#, c-format
+msgid "Downloaded: %s (%s), %s"
+msgstr "Загружено: %s (%s), %s"
+
+#: SevenWaysUpdaterMain.cpp:350
+#, c-format
+msgid "%i B"
+msgstr "%i Б"
+
+#: SevenWaysUpdaterMain.cpp:351
+#, c-format
+msgid "%i KB"
+msgstr "%i КБ"
+
+#: SevenWaysUpdaterMain.cpp:352
+#, c-format
+msgid "%i MB"
+msgstr "%i МБ"
+
+#: SevenWaysUpdaterMain.cpp:352
+#, c-format
+msgid "%i GB"
+msgstr "%i ГБ"
+
+#~ msgid "wxWidgets Application Template"
+#~ msgstr "Пример"
